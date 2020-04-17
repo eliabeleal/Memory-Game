@@ -1,6 +1,6 @@
 # Memory-Game
 
-# DESCRIÇÃO GERAL:
+## DESCRIÇÃO GERAL:
 
 O objetivo do projeto é desenvolver Jogo da Memória SI para Android, utilizando os recursos aprendidos na
 disciplina de PDM.
@@ -13,7 +13,7 @@ professores da partida deve ser realizada aleatoriamente.
 
 Explore sua criatividade! Surpreenda!!
 
-# REQUISITOS BÁSICOS:
+## REQUISITOS BÁSICOS:
 
 Os aplicativos, obrigatoriamente, deverão explorar os seguintes recursos:
 
